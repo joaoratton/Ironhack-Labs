@@ -1,4 +1,4 @@
-,carat,cut,color,clarity,depth,table,x,y,z,carat_range,avg_price
+,carat,cut,color,clarity,depth,table,x,y,z,carat_range,price_predicted
 0,0.91,Very Good,H,SI2,63.4,57.0,6.1,6.18,3.89,bucket_2,3776.626413940691
 1,0.92,Premium,F,SI1,61.8,59.0,6.21,6.25,3.85,bucket_2,3776.626413940691
 2,0.87,Ideal,F,VS1,62.0,55.0,6.1,6.13,3.79,bucket_2,3776.626413940691
